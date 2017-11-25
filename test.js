@@ -1,3 +1,3 @@
-// addd new test 
-// new line 2
-// new line 3
+// aws lambda db
+var msg = 'hello';
+console.log(msg);
